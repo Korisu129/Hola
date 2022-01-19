@@ -1,0 +1,28 @@
+body {
+    background-color:burlywood;
+    text-align: center;
+}
+
+h1 {
+    background-color:gainsboro;
+    color: white;
+    text-align: center;
+}
+
+img {
+    border: 25px solid;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    border: 1px solid;
+    display: inline-block;
+}
+
+#header {
+    border-left: 15px solid;
+    border-left-color: red;
+}
